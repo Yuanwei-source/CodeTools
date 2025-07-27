@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Annotation_protein_filter.py 使用说明
 
 ## 简介
@@ -50,3 +51,7 @@ python Annotation_protein_filter.py -i input.faa -o output.faa -r removed.txt --
 - 输入文件需为标准FASTA格式。
 - 支持多线程加速处理。
 
+=======
+# CodeTools
+some toosl for bioinformatics
+>>>>>>> 519d5ff76628cc2d6be0f6bedd87d966c2002d1d
